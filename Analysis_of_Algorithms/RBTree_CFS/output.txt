@@ -1,0 +1,13 @@
+0,-,-,-,-,-,-
+1,P1,0,0,P1:0-Black,Incomplete
+2,P2,0,0,P2:0-Black;P3:0-Black;P4:0-Red;P1:1-Black,Incomplete
+3,P3,0,0,P3:0-Black;P4:0-Black;P1:1-Black;P2:1-Red,Incomplete
+4,P4,0,0,P4:0-Black;P1:1-Black;P2:1-Black;P3:1-Red,Incomplete
+5,P4,1,1,P4:1-Black;P1:1-Black;P2:1-Black;P3:1-Red,Completed
+6,P1,1,1,P1:1-Black;P2:1-Black;P3:1-Black,Completed
+7,P2,1,1,P2:1-Black;P3:1-Red,Completed
+8,P3,1,1,P3:1-Black,Completed
+
+Scheduling finished in 330 ms.
+4 of 4 processes are completed.
+The order of completion of the tasks: P4-P1-P2-P3
